@@ -16,6 +16,8 @@ A collection of awesome and useful resources and tools related to security analy
 ### Bayesian Inference
 While workinging on the machine learning methods for anomaly detection on network traffic (PCAP) as well as security logs, have some thoughts if Bayesian inference can provide another perspective for research, therefore starting to looking into the direction.
 
+A brief introduction about Bayesian inference, https://en.wikipedia.org/wiki/Bayesian_inference
+
 #### Books
 - Bayesian Reasoning and Machine Learning, https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/  
 and there is online version, http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/270212.pdf
