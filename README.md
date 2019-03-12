@@ -18,7 +18,7 @@ While workinging on the machine learning methods for anomaly detection on networ
 
 #### Books
 - Bayesian Reasoning and Machine Learning, https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/
-  there is online version, https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/
+there is online version, http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/270212.pdf
 
 - Modeling and Reasoning with Bayesian Networks, https://www.amazon.com/Modeling-Reasoning-Bayesian-Networks-Professor/dp/1107678420
 
