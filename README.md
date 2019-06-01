@@ -1,8 +1,7 @@
 # awesome-security-analytics
 A collection of awesome and useful resources and tools related to security analytics for covering different topics,
 - cyber security awareness, 
-- security intelligence, 
-- AI for cyber security, 
+- security intelligence, including AI for cyber security, 
 - security visualization.
 
 
@@ -11,7 +10,8 @@ A collection of awesome and useful resources and tools related to security analy
 
 ## Security Intelligence
 
-## AI for Cyber Security
+One hot topic here is AI for Cyber Security (AI4Sec)
+
 
 ### Bayesian Inference
 While workinging on the machine learning methods for anomaly detection on network traffic (PCAP) as well as security logs, have some thoughts if Bayesian inference can provide another perspective for research, therefore starting to looking into the direction.
